@@ -19,8 +19,14 @@ form {
 position: fixed;
  align-items: center;
 top: 15%
-
 }
+
+#container {
+  position: absolute;
+  right: 50%;
+  top: 15%
+}
+
 #header {
   position: fixed;
   background-size: 100%;
